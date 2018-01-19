@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Created by Admin on 16.05.16.
+ * Created by @airoo on 16.05.16.
  */
 public class main {
     public static void main(String[] args) {
